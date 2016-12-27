@@ -21,6 +21,7 @@ public class Robot {
 		
 		public void saySomething(){
 			System.out.println("Thank you. My name is " +name +" btw.");
+			System.out.println("And i like you");
 		}
 
 }
